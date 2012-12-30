@@ -2046,3 +2046,11 @@ Downloaded from http://linuxwireless.org/en/users/Drivers/carl9170
 Licence: GPLv2. Some build scripts use the New BSD (3-clause) licence.
 
 --------------------------------------------------------------------------
+
+Driver: rp2 -- Comtrol RocketPort 2 serial driver
+
+File: rp2.fw
+
+Licence: Freely redistributable in any format, per Comtrol.
+
+--------------------------------------------------------------------------
